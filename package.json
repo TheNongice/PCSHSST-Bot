@@ -1,0 +1,24 @@
+{
+  "name": "pccshst-bot",
+  "version": "1.0.0",
+  "description": "บอท Discord จภ.สตูล (ปัจจุบันมีให้ใช้สำหรับเซิฟ omegaohchuean เท่านั้น!)",
+  "main": "start.js",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheNongice/pccshst-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheNongice/pccshst-bot/issues"
+  },
+  "homepage": "https://github.com/TheNongice/pccshst-bot#readme"
+}
