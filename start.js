@@ -2,7 +2,6 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
 const auth = require('./auth.json');
-const test  =require('./test.json')
 
 const pccsh_say = require("./msg/hello/msg.json");
 let prefix ='จภ.สตูล';
